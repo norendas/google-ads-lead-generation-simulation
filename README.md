@@ -1,38 +1,54 @@
-# Google Ads Lead Generation Simulation
+# Google Ads Lead Generation Simulation – Ayurvedic Store
 
 ## 🎯 Objective
-To design a high-converting Google Search campaign for a healthcare business (simulation project).
+To design a high-converting Google Search campaign for an Ayurvedic eCommerce business focused on lead generation and online sales.
+
+This is a hands-on simulation project created to demonstrate practical performance marketing skills.
 
 ---
 
-## 🔍 Scope of Work
+## 🧠 Business Scenario
 
-- Keyword research
-- Campaign structure
-- Ad copy creation
-- Negative keyword strategy
-- Budget planning
-- Landing page wireframe
-
----
-
-## 🧰 Tools Used
-
-- Google Keyword Planner (simulated)
-- Excel
-- GA4 (conceptual)
-- Google Ads (structure design)
+Business Type: Ayurvedic Products Store  
+Primary Goal: Generate qualified purchase leads  
+Target Location: India (Tier 1 & Tier 2 cities)  
+Monthly Budget: ₹45,000  
+Campaign Type: Google Search
 
 ---
 
-## 📊 Expected Outcomes
+## 🔍 Project Deliverables
 
-- Improved lead quality
-- Lower cost per lead (estimated)
-- Better keyword targeting
+✅ Keyword research  
+✅ Campaign structure  
+✅ Ad copy creation  
+✅ Negative keyword list  
+✅ Budget allocation  
+✅ Landing page wireframe  
+✅ Expected performance estimates  
 
 ---
 
-## 📌 Note
+## 🧰 Tools & Skills Demonstrated
 
-This is a hands-on simulation project created for learning and demonstration purposes.
+- Google Ads campaign planning  
+- Keyword intent mapping  
+- Conversion-focused ad copy  
+- Lead generation strategy  
+- Funnel thinking  
+- Basic media planning  
+
+---
+
+## 📊 Expected Outcomes (Estimated)
+
+- CTR: 5–8%  
+- Conversion Rate: 6–10%  
+- Estimated CPL: ₹120–₹250  
+- Monthly Leads Potential: 180–300  
+
+---
+
+## 📌 Disclaimer
+
+This is a simulation project created for learning and portfolio demonstration purposes only. No real ad spend was executed.
