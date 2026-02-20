@@ -1,0 +1,24 @@
+=== Ad Variation 1 ===
+Headline 1: Buy Authentic Ayurvedic Products
+Headline 2: Trusted Herbal Store Online
+Headline 3: Fast Delivery Across India
+
+Description: Shop premium Ayurvedic medicines and herbal supplements. Quality assured products. Order today!
+
+---
+
+=== Ad Variation 2 ===
+Headline 1: Ayurvedic Store Near You
+Headline 2: Natural Health Solutions
+Headline 3: Shop Online Now
+
+Description: Discover genuine Ayurvedic products for immunity and wellness. Easy ordering and quick shipping.
+
+---
+
+=== Ad Variation 3 ===
+Headline 1: Boost Immunity Naturally
+Headline 2: Ayurvedic Supplements Online
+Headline 3: Trusted Herbal Brand
+
+Description: Improve your wellness with natural Ayurvedic formulations. Browse our top-selling products.
