@@ -1,4 +1,4 @@
-# Google Ads Lead Generation Simulation – Ayurvedic Store
+# Google Ads Lead Generation Simulation (Search Campaign) – Ayurvedic eCommerce
 
 ## 🎯 Objective
 To design a high-converting Google Search campaign for an Ayurvedic eCommerce business focused on lead generation and online sales.
